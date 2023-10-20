@@ -1,1 +1,3 @@
-Page 2!
+### Page 2!
+
+Welcome to page 2 of wiki!
