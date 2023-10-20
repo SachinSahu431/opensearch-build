@@ -6,4 +6,4 @@ This repository hosts the build, test and release scripts for OpenSearch and Ope
 
 List of pages in this wiki:
 - [Building a Distribution from the source](https://github.com/SachinSahu431/opensearch-build/wiki/Building-an-OpenSearch-and-OpenSearch-Dashboards-Distribution)
-- [Page 2](https://github.com/SachinSahu431/opensearch-build/wiki/Welcome-to-Page-2.md)
+- [Page 2](https://github.com/SachinSahu431/opensearch-build/wiki/Welcome-to-Page-2)
